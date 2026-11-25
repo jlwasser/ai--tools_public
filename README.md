@@ -33,8 +33,8 @@ Projects a population onto an axis by census — every item is coded, not sample
 
 ## Spec
 
-### AA_EQUIPMENT_BAG v0.4 — abstract-algebra scaffolding
-Not a callable tool. A Claude-facing spec defining a shared channel for abstract-algebra terms. One base move — declare what you'll stop distinguishing, then collapse — gripped seven ways: **Quotient**, **Kernel**, **Coset Representative**, **Normality**, **Lagrange**, **Ideal**, **First Iso**. Each handle is a trigger question plus its structural move; Claude decodes a handle at the grain it carries, fires one back only on structural match, and holds the formal grain. The bag is open to new handles.
+### AA_EQUIPMENT_BAG v0.5 — abstract-algebra scaffolding
+Not a callable tool. A Claude-facing spec defining a shared channel for abstract-algebra terms. One base move — declare what you'll stop distinguishing, then collapse — gripped nine ways: **Quotient**, **Kernel**, **Coset Representative**, **Normality**, **Lagrange**, **Ideal**, **First Iso**, **Holonomy**, **Gauge**. Each handle is a trigger question plus its structural move; Claude decodes a handle at the grain it carries, fires one back only on structural match, and holds the formal grain. The bag is open to new handles.
 
 ## License
 
