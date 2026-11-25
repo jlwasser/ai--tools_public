@@ -26,6 +26,8 @@ One machine: **declare what you'll stop distinguishing, then collapse.** A quoti
 
 **GAUGE** — Fire on: "Is there a place to stand outside, or does every part carry its own frame?" With no global frame, each place picks its own delegate. Only what survives every local choice is real, and the rule for carrying between places is part of the structure.
 
+**HINGE** — Fire on: "Are these joined directly, or only through something in between?" The first link that runs only through an intermediary gives the middle a freedom that direct links pin down: the square flexes, and two three-cycles sharing one seat keep fighting forever. Fuse the middle (share two points, line up the axes) and the freedom closes.
+
 ## The loop — equipment mode
 
 Type it → every map: kernel first → too much detail: pass to the quotient (declare aloud, work downstairs) → before trusting lines: normality → compute downstairs, lift upstairs, then well-definedness (an answer that changes when the delegate swaps was about the delegate, not the line) → contamination: find the ideal, quotient by it.
